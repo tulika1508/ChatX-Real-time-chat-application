@@ -1,0 +1,79 @@
+.logo{
+    display:block;
+    margin:auto;
+    height:60px;
+    width:60px;
+    border-radius: 200px;
+}
+
+body{
+    background-image: linear-gradient(rgb(191, 99, 193),rgb(93, 220, 220));
+    height: 150vh;
+}
+
+.message{
+    padding: 10px;
+    background-color: rgb(149, 165, 140);
+    width: 30%;
+    border-radius: 4px;
+    margin: 17px 10px;
+    border: 1px solid black;
+}
+.left{
+    float:left;
+    clear:both;
+}
+.right{
+    float:right;
+    clear:both;
+}
+.container{
+    max-width: 1000px;
+    border: 2px solid black;
+    margin:auto;
+    height:60vh;
+    overflow-y: auto;
+    padding: 10px 10px;
+    border-radius: 6px;
+}
+#send-msg{
+    display:block;
+    margin:auto;
+    text-align: center;
+    max-width: 960px;
+    width: 100%;
+}
+#msgInp{
+    width:60%;
+    border: 1px solid rgb(9, 61, 15);
+    padding: 4px;
+    margin: 10px;
+    border-radius: 4px;
+}
+.btn{
+    background-color: rgb(115, 151, 186);
+    cursor: pointer;
+    border-radius: 4px;
+    
+}
+.btn:hover{
+    background-color: rgb(158, 179, 212);
+    text-decoration-color: aliceblue;
+}
+#user-name{
+    padding: 10px;
+    display:block;
+    margin:auto;
+    text-align: center;
+    max-width: 960px;
+    width: 100%;
+}
+#username{
+    border: 1px solid rgb(9, 61, 15);
+    border-radius: 4px;
+}
+h2{
+    margin-top: 10px;
+    text-align: center;
+    font-family:cursive;
+}

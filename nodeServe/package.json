@@ -1,0 +1,14 @@
+{
+  "name": "nodeserve",
+  "version": "1.0.0",
+  "description": "This is my node server for chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tulika",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "1.0"
+  }
+}
