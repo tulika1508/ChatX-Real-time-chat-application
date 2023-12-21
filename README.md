@@ -1,8 +1,10 @@
-# ChatX-An ultimate real time chatting appliaction
+# ChatX-An ultimate real time chatting application 
 ---
 ## Introduction
 
-This is a real time chat application build with NodeJS and Socket.IO.Multiple users can connect using their name and the message they want to broadcast to all.It has notification facility to let users know that a new chat has come.
+* This is a real time chat application build with NodeJS and Socket.IO.
+* Multiple users can connect using their name and the message they want to broadcast to all.
+* It has notification facility to let users know that a new chat has come.
 
 ## Tech stacks used
 ### Frontend
@@ -15,6 +17,7 @@ This is a real time chat application build with NodeJS and Socket.IO.Multiple us
 * Socket.IO
 
 ## Screenshots
+Demo of a conversation between 2 users.
 * USER 1
   
 ![pic1](https://github.com/tulika1508/ChatX-Real-time-chat-application/assets/97580039/aa657ed5-496c-4382-83af-44265c8bd46f)
